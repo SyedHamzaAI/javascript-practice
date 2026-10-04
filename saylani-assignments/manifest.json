@@ -1,0 +1,1133 @@
+[
+  {
+    "slug": "chapter-01",
+    "chapters": "1",
+    "title": "Alerts",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapter1.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Greet a website visitor with an alert",
+        "path": "chapter-01/question-01/index.html",
+        "script": "chapter-01/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Display the password error message",
+        "path": "chapter-01/question-02/index.html",
+        "script": "chapter-01/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Use a line break in an alert",
+        "path": "chapter-01/question-03/index.html",
+        "script": "chapter-01/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Display two alerts in sequence",
+        "path": "chapter-01/question-04/index.html",
+        "script": "chapter-01/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Generate a message using the developer console",
+        "path": "chapter-01/question-05/index.html",
+        "script": "chapter-01/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Use alerts in an HTML and CSS project",
+        "path": "chapter-01/question-06/index.html",
+        "script": "chapter-01/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Practice all four script placements",
+        "path": "chapter-01/question-07/index.html",
+        "script": "chapter-01/question-07/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapter-02",
+    "chapters": "2",
+    "title": "Variables for strings",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapter2.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Declare a username variable",
+        "path": "chapter-02/question-01/index.html",
+        "script": "chapter-02/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Store your full name",
+        "path": "chapter-02/question-02/index.html",
+        "script": "chapter-02/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Declare, assign and alert Hello World",
+        "path": "chapter-02/question-03/index.html",
+        "script": "chapter-02/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Store and display student bio data",
+        "path": "chapter-02/question-04/index.html",
+        "script": "chapter-02/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Display the pizza pattern using one variable",
+        "path": "chapter-02/question-05/index.html",
+        "script": "chapter-02/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Concatenate an email address into a message",
+        "path": "chapter-02/question-06/index.html",
+        "script": "chapter-02/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Display the book title in an alert",
+        "path": "chapter-02/question-07/index.html",
+        "script": "chapter-02/question-07/app.js"
+      },
+      {
+        "number": 8,
+        "title": "Write HTML content through JavaScript",
+        "path": "chapter-02/question-08/index.html",
+        "script": "chapter-02/question-08/app.js"
+      },
+      {
+        "number": 9,
+        "title": "Display the decorative string in an alert and browser",
+        "path": "chapter-02/question-09/index.html",
+        "script": "chapter-02/question-09/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapter-03",
+    "chapters": "3",
+    "title": "Variables for numbers",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapter3.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Store and alert your age",
+        "path": "chapter-03/question-01/index.html",
+        "script": "chapter-03/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Keep track of page visits",
+        "path": "chapter-03/question-02/index.html",
+        "script": "chapter-03/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Display birth year and data type",
+        "path": "chapter-03/question-03/index.html",
+        "script": "chapter-03/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Show a clothing store order",
+        "path": "chapter-03/question-04/index.html",
+        "script": "chapter-03/question-04/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapter-04",
+    "chapters": "4",
+    "title": "Legal and illegal variable names",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapter4.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Declare three variables in one statement",
+        "path": "chapter-04/question-01/index.html",
+        "script": "chapter-04/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Show five legal and five illegal variable names",
+        "path": "chapter-04/question-02/index.html",
+        "script": "chapter-04/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Complete the rules for naming JavaScript variables",
+        "path": "chapter-04/question-03/index.html",
+        "script": "chapter-04/question-03/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapter-05",
+    "chapters": "5",
+    "title": "Math expressions",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapter5.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Add two numbers",
+        "path": "chapter-05/question-01/index.html",
+        "script": "chapter-05/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Subtract, multiply, divide and find the remainder",
+        "path": "chapter-05/question-02/index.html",
+        "script": "chapter-05/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Follow the increment and decrement sequence",
+        "path": "chapter-05/question-03/index.html",
+        "script": "chapter-05/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Calculate the cost of five movie tickets",
+        "path": "chapter-05/question-04/index.html",
+        "script": "chapter-05/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Display a multiplication table",
+        "path": "chapter-05/question-05/index.html",
+        "script": "chapter-05/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Convert Celsius and Fahrenheit",
+        "path": "chapter-05/question-06/index.html",
+        "script": "chapter-05/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Calculate a shopping cart receipt",
+        "path": "chapter-05/question-07/index.html",
+        "script": "chapter-05/question-07/app.js"
+      },
+      {
+        "number": 8,
+        "title": "Compute marks percentage",
+        "path": "chapter-05/question-08/index.html",
+        "script": "chapter-05/question-08/app.js"
+      },
+      {
+        "number": 9,
+        "title": "Convert the given currencies in one expression",
+        "path": "chapter-05/question-09/index.html",
+        "script": "chapter-05/question-09/app.js"
+      },
+      {
+        "number": 10,
+        "title": "Combine three arithmetic steps into one expression",
+        "path": "chapter-05/question-10/index.html",
+        "script": "chapter-05/question-10/app.js"
+      },
+      {
+        "number": 11,
+        "title": "Calculate the two possible ages",
+        "path": "chapter-05/question-11/index.html",
+        "script": "chapter-05/question-11/app.js"
+      },
+      {
+        "number": 12,
+        "title": "Calculate circle circumference and area",
+        "path": "chapter-05/question-12/index.html",
+        "script": "chapter-05/question-12/app.js"
+      },
+      {
+        "number": 13,
+        "title": "Calculate a lifetime supply of snacks",
+        "path": "chapter-05/question-13/index.html",
+        "script": "chapter-05/question-13/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-06-09",
+    "chapters": "6–9",
+    "title": "Math expressions and user input",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters6-9.pdf",
+    "note": "The source PDF leaves question numbers 4 and 7 blank. The five actual tasks keep their original numbers.",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Compare prefix and postfix increment and decrement",
+        "path": "chapters-06-09/question-01/index.html",
+        "script": "chapters-06-09/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Explain each stage of the mixed operator expression",
+        "path": "chapters-06-09/question-02/index.html",
+        "script": "chapters-06-09/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Ask for a name and greet the user",
+        "path": "chapters-06-09/question-03/index.html",
+        "script": "chapters-06-09/question-03/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Show a multiplication table with default number five",
+        "path": "chapters-06-09/question-05/index.html",
+        "script": "chapters-06-09/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Collect three subjects and calculate a marks table",
+        "path": "chapters-06-09/question-06/index.html",
+        "script": "chapters-06-09/question-06/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-09-11",
+    "chapters": "9–11",
+    "title": "Input and conditional statements",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters9-11.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Welcome visitors to Karachi",
+        "path": "chapters-09-11/question-01/index.html",
+        "script": "chapters-09-11/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Greet the user based on gender",
+        "path": "chapters-09-11/question-02/index.html",
+        "script": "chapters-09-11/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Show the message for a traffic signal color",
+        "path": "chapters-09-11/question-03/index.html",
+        "script": "chapters-09-11/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Check whether the car needs fuel",
+        "path": "chapters-09-11/question-04/index.html",
+        "script": "chapters-09-11/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Run and record all conditional alert examples",
+        "path": "chapters-09-11/question-05/index.html",
+        "script": "chapters-09-11/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Calculate percentage, grade and remarks",
+        "path": "chapters-09-11/question-06/index.html",
+        "script": "chapters-09-11/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Guess the secret number",
+        "path": "chapters-09-11/question-07/index.html",
+        "script": "chapters-09-11/question-07/app.js"
+      },
+      {
+        "number": 8,
+        "title": "Check whether a number is divisible by three",
+        "path": "chapters-09-11/question-08/index.html",
+        "script": "chapters-09-11/question-08/app.js"
+      },
+      {
+        "number": 9,
+        "title": "Check whether a number is even or odd",
+        "path": "chapters-09-11/question-09/index.html",
+        "script": "chapters-09-11/question-09/app.js"
+      },
+      {
+        "number": 10,
+        "title": "Show a temperature message",
+        "path": "chapters-09-11/question-10/index.html",
+        "script": "chapters-09-11/question-10/app.js"
+      },
+      {
+        "number": 11,
+        "title": "Create a calculator using if statements",
+        "path": "chapters-09-11/question-11/index.html",
+        "script": "chapters-09-11/question-11/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-12-13",
+    "chapters": "12–13",
+    "title": "If, else and else if",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters12-13.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Classify a character using ASCII codes",
+        "path": "chapters-12-13/question-01/index.html",
+        "script": "chapters-12-13/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Compare two integers",
+        "path": "chapters-12-13/question-02/index.html",
+        "script": "chapters-12-13/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Check whether a number is positive, negative or zero",
+        "path": "chapters-12-13/question-03/index.html",
+        "script": "chapters-12-13/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Return true or false for a vowel",
+        "path": "chapters-12-13/question-04/index.html",
+        "script": "chapters-12-13/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Validate a password against the stored password",
+        "path": "chapters-12-13/question-05/index.html",
+        "script": "chapters-12-13/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Fix the malformed if and else statement",
+        "path": "chapters-12-13/question-06/index.html",
+        "script": "chapters-12-13/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Choose a greeting using 24-hour clock time",
+        "path": "chapters-12-13/question-07/index.html",
+        "script": "chapters-12-13/question-07/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-14-16",
+    "chapters": "14–16",
+    "title": "Arrays",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters14-16.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Declare an empty array with literal notation",
+        "path": "chapters-14-16/question-01/index.html",
+        "script": "chapters-14-16/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Declare an empty array with object notation",
+        "path": "chapters-14-16/question-02/index.html",
+        "script": "chapters-14-16/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Initialize a string array",
+        "path": "chapters-14-16/question-03/index.html",
+        "script": "chapters-14-16/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Initialize a number array",
+        "path": "chapters-14-16/question-04/index.html",
+        "script": "chapters-14-16/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Initialize a boolean array",
+        "path": "chapters-14-16/question-05/index.html",
+        "script": "chapters-14-16/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Initialize a mixed array",
+        "path": "chapters-14-16/question-06/index.html",
+        "script": "chapters-14-16/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "List education qualifications in Pakistan",
+        "path": "chapters-14-16/question-07/index.html",
+        "script": "chapters-14-16/question-07/app.js"
+      },
+      {
+        "number": 8,
+        "title": "Display student scores and percentages",
+        "path": "chapters-14-16/question-08/index.html",
+        "script": "chapters-14-16/question-08/app.js"
+      },
+      {
+        "number": 9,
+        "title": "Add and remove colors with array methods",
+        "path": "chapters-14-16/question-09/index.html",
+        "script": "chapters-14-16/question-09/app.js"
+      },
+      {
+        "number": 10,
+        "title": "Sort student scores numerically in ascending order",
+        "path": "chapters-14-16/question-10/index.html",
+        "script": "chapters-14-16/question-10/app.js"
+      },
+      {
+        "number": 11,
+        "title": "Copy three cities using slice",
+        "path": "chapters-14-16/question-11/index.html",
+        "script": "chapters-14-16/question-11/app.js"
+      },
+      {
+        "number": 12,
+        "title": "Join an array into a single string",
+        "path": "chapters-14-16/question-12/index.html",
+        "script": "chapters-14-16/question-12/app.js"
+      },
+      {
+        "number": 13,
+        "title": "Use an array as a first-in, first-out queue",
+        "path": "chapters-14-16/question-13/index.html",
+        "script": "chapters-14-16/question-13/app.js"
+      },
+      {
+        "number": 14,
+        "title": "Use an array as a last-in, first-out stack",
+        "path": "chapters-14-16/question-14/index.html",
+        "script": "chapters-14-16/question-14/app.js"
+      },
+      {
+        "number": 15,
+        "title": "Write a manufacturer dropdown using document.write",
+        "path": "chapters-14-16/question-15/index.html",
+        "script": "chapters-14-16/question-15/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-17-20",
+    "chapters": "17–20",
+    "title": "Arrays and loops",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters17-20.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Initialize an empty multidimensional array",
+        "path": "chapters-17-20/question-01/index.html",
+        "script": "chapters-17-20/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Display the given matrix",
+        "path": "chapters-17-20/question-02/index.html",
+        "script": "chapters-17-20/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Count from one to ten",
+        "path": "chapters-17-20/question-03/index.html",
+        "script": "chapters-17-20/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Take a table number and length from the user",
+        "path": "chapters-17-20/question-04/index.html",
+        "script": "chapters-17-20/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Print fruit names and their indexes",
+        "path": "chapters-17-20/question-05/index.html",
+        "script": "chapters-17-20/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Generate counting, reverse, even, odd and k series",
+        "path": "chapters-17-20/question-06/index.html",
+        "script": "chapters-17-20/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Search for a bakery item using a loop",
+        "path": "chapters-17-20/question-07/index.html",
+        "script": "chapters-17-20/question-07/app.js"
+      },
+      {
+        "number": 8,
+        "title": "Find the largest array value using a loop",
+        "path": "chapters-17-20/question-08/index.html",
+        "script": "chapters-17-20/question-08/app.js"
+      },
+      {
+        "number": 9,
+        "title": "Find the smallest array value using a loop",
+        "path": "chapters-17-20/question-09/index.html",
+        "script": "chapters-17-20/question-09/app.js"
+      },
+      {
+        "number": 10,
+        "title": "Print multiples of five from one to one hundred",
+        "path": "chapters-17-20/question-10/index.html",
+        "script": "chapters-17-20/question-10/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-21-25",
+    "chapters": "21–25",
+    "title": "String methods",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters21-25.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Merge first and last names and greet the user",
+        "path": "chapters-21-25/question-01/index.html",
+        "script": "chapters-21-25/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Find the length of a phone model name",
+        "path": "chapters-21-25/question-02/index.html",
+        "script": "chapters-21-25/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Find the index of n in Pakistani",
+        "path": "chapters-21-25/question-03/index.html",
+        "script": "chapters-21-25/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Find the last index of l in Hello World",
+        "path": "chapters-21-25/question-04/index.html",
+        "script": "chapters-21-25/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Find the character at index three",
+        "path": "chapters-21-25/question-05/index.html",
+        "script": "chapters-21-25/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Merge names using concat",
+        "path": "chapters-21-25/question-06/index.html",
+        "script": "chapters-21-25/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Replace Hyder with Islam",
+        "path": "chapters-21-25/question-07/index.html",
+        "script": "chapters-21-25/question-07/app.js"
+      },
+      {
+        "number": 8,
+        "title": "Replace every occurrence of and with an ampersand",
+        "path": "chapters-21-25/question-08/index.html",
+        "script": "chapters-21-25/question-08/app.js"
+      },
+      {
+        "number": 9,
+        "title": "Convert the string 472 to a number",
+        "path": "chapters-21-25/question-09/index.html",
+        "script": "chapters-21-25/question-09/app.js"
+      },
+      {
+        "number": 10,
+        "title": "Convert user input to uppercase",
+        "path": "chapters-21-25/question-10/index.html",
+        "script": "chapters-21-25/question-10/app.js"
+      },
+      {
+        "number": 11,
+        "title": "Convert user input to title case",
+        "path": "chapters-21-25/question-11/index.html",
+        "script": "chapters-21-25/question-11/app.js"
+      },
+      {
+        "number": 12,
+        "title": "Convert a number to a string and remove its dot",
+        "path": "chapters-21-25/question-12/index.html",
+        "script": "chapters-21-25/question-12/app.js"
+      },
+      {
+        "number": 13,
+        "title": "Validate a username using character codes",
+        "path": "chapters-21-25/question-13/index.html",
+        "script": "chapters-21-25/question-13/app.js"
+      },
+      {
+        "number": 14,
+        "title": "Perform a case-insensitive bakery search",
+        "path": "chapters-21-25/question-14/index.html",
+        "script": "chapters-21-25/question-14/app.js"
+      },
+      {
+        "number": 15,
+        "title": "Validate an alphanumeric password",
+        "path": "chapters-21-25/question-15/index.html",
+        "script": "chapters-21-25/question-15/app.js"
+      },
+      {
+        "number": 16,
+        "title": "Split University of Karachi into characters",
+        "path": "chapters-21-25/question-16/index.html",
+        "script": "chapters-21-25/question-16/app.js"
+      },
+      {
+        "number": 17,
+        "title": "Display the last character of user input",
+        "path": "chapters-21-25/question-17/index.html",
+        "script": "chapters-21-25/question-17/app.js"
+      },
+      {
+        "number": 18,
+        "title": "Count occurrences of the word the",
+        "path": "chapters-21-25/question-18/index.html",
+        "script": "chapters-21-25/question-18/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-26-30",
+    "chapters": "26–30",
+    "title": "Math methods",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters26-30.pdf",
+    "note": "Question 1 says integer, but its screenshot uses 3.45214. The solution accepts positive decimal numbers too so round, floor and ceil can be compared.",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Round, floor and ceil a positive number",
+        "path": "chapters-26-30/question-01/index.html",
+        "script": "chapters-26-30/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Round, floor and ceil a negative floating-point number",
+        "path": "chapters-26-30/question-02/index.html",
+        "script": "chapters-26-30/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Display the absolute value of a number",
+        "path": "chapters-26-30/question-03/index.html",
+        "script": "chapters-26-30/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Simulate a six-sided die",
+        "path": "chapters-26-30/question-04/index.html",
+        "script": "chapters-26-30/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Simulate a coin toss",
+        "path": "chapters-26-30/question-05/index.html",
+        "script": "chapters-26-30/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Generate a random number from one to one hundred",
+        "path": "chapters-26-30/question-06/index.html",
+        "script": "chapters-26-30/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Parse a weight that may include units",
+        "path": "chapters-26-30/question-07/index.html",
+        "script": "chapters-26-30/question-07/app.js"
+      },
+      {
+        "number": 8,
+        "title": "Guess a randomly generated secret number",
+        "path": "chapters-26-30/question-08/index.html",
+        "script": "chapters-26-30/question-08/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-31-34",
+    "chapters": "31–34",
+    "title": "Date methods",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters31-34.pdf",
+    "note": "Historical dates are kept exactly as assigned. Question 6 intentionally demonstrates an undeclared variable; question 10 computes the correct seconds instead of copying the inconsistent screenshot result.",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Display the current date and time",
+        "path": "chapters-31-34/question-01/index.html",
+        "script": "chapters-31-34/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Alert the current month in words",
+        "path": "chapters-31-34/question-02/index.html",
+        "script": "chapters-31-34/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Alert the first three letters of the current day",
+        "path": "chapters-31-34/question-03/index.html",
+        "script": "chapters-31-34/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Identify a weekend fun day",
+        "path": "chapters-31-34/question-04/index.html",
+        "script": "chapters-31-34/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Identify the first fifteen or last days of the month",
+        "path": "chapters-31-34/question-05/index.html",
+        "script": "chapters-31-34/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Calculate elapsed milliseconds and minutes since 1970",
+        "path": "chapters-31-34/question-06/index.html",
+        "script": "chapters-31-34/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Identify AM or PM",
+        "path": "chapters-31-34/question-07/index.html",
+        "script": "chapters-31-34/question-07/app.js"
+      },
+      {
+        "number": 8,
+        "title": "Create the last date of 2020",
+        "path": "chapters-31-34/question-08/index.html",
+        "script": "chapters-31-34/question-08/app.js"
+      },
+      {
+        "number": 9,
+        "title": "Count days since the assigned Ramadan date",
+        "path": "chapters-31-34/question-09/index.html",
+        "script": "chapters-31-34/question-09/app.js"
+      },
+      {
+        "number": 10,
+        "title": "Calculate seconds since the beginning of 2015",
+        "path": "chapters-31-34/question-10/index.html",
+        "script": "chapters-31-34/question-10/app.js"
+      },
+      {
+        "number": 11,
+        "title": "Move a date object one hour ahead",
+        "path": "chapters-31-34/question-11/index.html",
+        "script": "chapters-31-34/question-11/app.js"
+      },
+      {
+        "number": 12,
+        "title": "Reset a date object one hundred years back",
+        "path": "chapters-31-34/question-12/index.html",
+        "script": "chapters-31-34/question-12/app.js"
+      },
+      {
+        "number": 13,
+        "title": "Estimate birth year from age",
+        "path": "chapters-31-34/question-13/index.html",
+        "script": "chapters-31-34/question-13/app.js"
+      },
+      {
+        "number": 14,
+        "title": "Generate a K-Electric bill",
+        "path": "chapters-31-34/question-14/index.html",
+        "script": "chapters-31-34/question-14/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-35-38",
+    "chapters": "35–38",
+    "title": "Functions",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters35-38.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Display the current date and time with a function",
+        "path": "chapters-35-38/question-01/index.html",
+        "script": "chapters-35-38/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Greet a user with a full-name function",
+        "path": "chapters-35-38/question-02/index.html",
+        "script": "chapters-35-38/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Return the sum of two user-entered numbers",
+        "path": "chapters-35-38/question-03/index.html",
+        "script": "chapters-35-38/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Create a three-argument calculator function",
+        "path": "chapters-35-38/question-04/index.html",
+        "script": "chapters-35-38/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Square a function argument",
+        "path": "chapters-35-38/question-05/index.html",
+        "script": "chapters-35-38/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Calculate a factorial",
+        "path": "chapters-35-38/question-06/index.html",
+        "script": "chapters-35-38/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Display counting between a start and end value",
+        "path": "chapters-35-38/question-07/index.html",
+        "script": "chapters-35-38/question-07/app.js"
+      },
+      {
+        "number": 8,
+        "title": "Calculate hypotenuse with a nested square function",
+        "path": "chapters-35-38/question-08/index.html",
+        "script": "chapters-35-38/question-08/app.js"
+      },
+      {
+        "number": 9,
+        "title": "Calculate rectangle area using values and variables",
+        "path": "chapters-35-38/question-09/index.html",
+        "script": "chapters-35-38/question-09/app.js"
+      },
+      {
+        "number": 10,
+        "title": "Check whether a string is a palindrome",
+        "path": "chapters-35-38/question-10/index.html",
+        "script": "chapters-35-38/question-10/app.js"
+      },
+      {
+        "number": 11,
+        "title": "Capitalize the first letter of every word",
+        "path": "chapters-35-38/question-11/index.html",
+        "script": "chapters-35-38/question-11/app.js"
+      },
+      {
+        "number": 12,
+        "title": "Find the longest word in a string",
+        "path": "chapters-35-38/question-12/index.html",
+        "script": "chapters-35-38/question-12/app.js"
+      },
+      {
+        "number": 13,
+        "title": "Count occurrences of a specified letter",
+        "path": "chapters-35-38/question-13/index.html",
+        "script": "chapters-35-38/question-13/app.js"
+      },
+      {
+        "number": 14,
+        "title": "Create circumference and area functions",
+        "path": "chapters-35-38/question-14/index.html",
+        "script": "chapters-35-38/question-14/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-38-42",
+    "chapters": "38–42",
+    "title": "Functions, switch and while loops",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters38-42.pdf",
+    "note": "The filename says 38–42; the PDF header says 38–44. All ten tasks are included. Heron’s area requires a square root. The vowel-pair example also contains io in application, which is counted.",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Write a custom power function",
+        "path": "chapters-38-42/question-01/index.html",
+        "script": "chapters-38-42/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Determine whether a year is a leap year",
+        "path": "chapters-38-42/question-02/index.html",
+        "script": "chapters-38-42/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Calculate triangle area with two functions",
+        "path": "chapters-38-42/question-03/index.html",
+        "script": "chapters-38-42/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Calculate average and percentage with three functions",
+        "path": "chapters-38-42/question-04/index.html",
+        "script": "chapters-38-42/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Create a custom single-character indexOf function",
+        "path": "chapters-38-42/question-05/index.html",
+        "script": "chapters-38-42/question-05/app.js"
+      },
+      {
+        "number": 6,
+        "title": "Delete all vowels from a short sentence",
+        "path": "chapters-38-42/question-06/index.html",
+        "script": "chapters-38-42/question-06/app.js"
+      },
+      {
+        "number": 7,
+        "title": "Count adjacent vowel pairs using switch",
+        "path": "chapters-38-42/question-07/index.html",
+        "script": "chapters-38-42/question-07/app.js"
+      },
+      {
+        "number": 8,
+        "title": "Convert kilometres with four functions",
+        "path": "chapters-38-42/question-08/index.html",
+        "script": "chapters-38-42/question-08/app.js"
+      },
+      {
+        "number": 9,
+        "title": "Calculate overtime pay above forty hours",
+        "path": "chapters-38-42/question-09/index.html",
+        "script": "chapters-38-42/question-09/app.js"
+      },
+      {
+        "number": 10,
+        "title": "Count hundred, fifty and ten rupee notes",
+        "path": "chapters-38-42/question-10/index.html",
+        "script": "chapters-38-42/question-10/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-43-48",
+    "chapters": "43–48",
+    "title": "Browser events",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters43-48.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Show an alert when a link is clicked",
+        "path": "chapters-43-48/question-01/index.html",
+        "script": "chapters-43-48/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Show mobile images and alert on selection",
+        "path": "chapters-43-48/question-02/index.html",
+        "script": "chapters-43-48/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Delete any of ten student records",
+        "path": "chapters-43-48/question-03/index.html",
+        "script": "chapters-43-48/question-03/app.js"
+      },
+      {
+        "number": 4,
+        "title": "Change a picture on mouseover and restore on mouseout",
+        "path": "chapters-43-48/question-04/index.html",
+        "script": "chapters-43-48/question-04/app.js"
+      },
+      {
+        "number": 5,
+        "title": "Increase and decrease a counter",
+        "path": "chapters-43-48/question-05/index.html",
+        "script": "chapters-43-48/question-05/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-49-52",
+    "chapters": "49–52",
+    "title": "Forms and editable tables",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters49-52.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Display signup form data on submission",
+        "path": "chapters-49-52/question-01/index.html",
+        "script": "chapters-49-52/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Expand item details with a Read more button",
+        "path": "chapters-49-52/question-02/index.html",
+        "script": "chapters-49-52/question-02/app.js"
+      },
+      {
+        "number": 3,
+        "title": "Add, edit and delete student records with forms",
+        "path": "chapters-49-52/question-03/index.html",
+        "script": "chapters-49-52/question-03/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-53-57",
+    "chapters": "53–57",
+    "title": "Image modal and paragraph zoom",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapter52-57/chapters53-58.docx",
+    "note": "The source folder is named chapter52-57; its DOCX is chapters53-58.docx and its assignment header is 53–57. Both tasks and the supplied modal behavior are included.",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Open any of four images in a modal",
+        "path": "chapters-53-57/question-01/index.html",
+        "script": "chapters-53-57/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Zoom paragraph text in and out by ten pixels",
+        "path": "chapters-53-57/question-02/index.html",
+        "script": "chapters-53-57/question-02/app.js"
+      }
+    ]
+  },
+  {
+    "slug": "chapters-58-67",
+    "chapters": "58–67",
+    "title": "Document Object Model",
+    "source": "https://github.com/nadir-786/saylani-complete-javascript/blob/master/Chapter%201%20to%2067%20(JS)/chapters58-67.pdf",
+    "note": "",
+    "questions": [
+      {
+        "number": 1,
+        "title": "Select DOM elements, display children and fill input values",
+        "path": "chapters-58-67/question-01/index.html",
+        "script": "chapters-58-67/question-01/app.js"
+      },
+      {
+        "number": 2,
+        "title": "Inspect node types, child nodes, siblings and a parent",
+        "path": "chapters-58-67/question-02/index.html",
+        "script": "chapters-58-67/question-02/app.js"
+      }
+    ]
+  }
+]

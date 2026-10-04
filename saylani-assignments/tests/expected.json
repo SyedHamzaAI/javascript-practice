@@ -1,0 +1,200 @@
+[
+  [
+    "The visitor was greeted",
+    "Error! Please enter a valid password.",
+    "Welcome to JS Land...\nHappy Coding!",
+    "Two alerts were displayed",
+    "Open Developer Tools",
+    "welcome alert",
+    "4. Body after page HTML"
+  ],
+  [
+    "initial value is undefined",
+    "Syed Hamza Hussain",
+    "Hello World",
+    "26 years old",
+    "PIZZA\nPIZZ\nPIZ\nPI\nP",
+    "My email address is example@example.com",
+    "A smarter way to learn JavaScript",
+    "Yah! I can write HTML content through JavaScript",
+    "ஜ۩۞۩ஜ"
+  ],
+  [
+    "26 years old",
+    "You have visited this site 1 times.",
+    "Data type of my declared variable is number",
+    "John Doe ordered 5 T-shirt(s)"
+  ],
+  [
+    "age: 26",
+    "Illegal: 2age",
+    "Variable names are case sensitive."
+  ],
+  [
+    "Sum of 3 and 5 is 8",
+    "Modulus: 1",
+    "The remainder is: 0",
+    "3000 PKR",
+    "4 x 10 = 40",
+    "25°C is 77°F",
+    "2750 PKR",
+    "82.04%",
+    "1748",
+    "by 2: 50",
+    "either 25 or 26",
+    "1256.80",
+    "39420"
+  ],
+  [
+    "Now the value of a is: 10",
+    "result is 3",
+    "Hello, Hamza!",
+    "5 x 10 = 50",
+    "52.00%"
+  ],
+  [
+    "Welcome to city of lights",
+    "Good Morning Sir.",
+    "Must Stop",
+    "Please refill the fuel",
+    "Final c = 14",
+    "Grade: A",
+    "Bingo! Correct answer",
+    "9 is divisible by 3",
+    "8 is even",
+    "The Weather today is Normal.",
+    "10 + 5 = 15"
+  ],
+  [
+    "A is an uppercase letter.",
+    "20 is larger.",
+    "The number is negative.",
+    "true",
+    "Correct! The password",
+    "Good day",
+    "Good evening!"
+  ],
+  [
+    "Student names: []",
+    "Student names: []",
+    "Karachi, Lahore, Islamabad",
+    "10, 20, 30, 40",
+    "true, false, true",
+    "[\"Hamza\",26,true,null]",
+    "8) PhD",
+    "96.00%",
+    "g. Delete 2 colors: Pink, Red, Green, Blue",
+    "120, 230, 320, 480",
+    "Islamabad, Quetta, Peshawar",
+    "This  is  my  cat",
+    "Out: monitor",
+    "Out: keyboard",
+    "Phone manufacturer"
+  ],
+  [
+    "[[],[],[]]",
+    "2 1 0 1",
+    "10",
+    "2 x 15 = 30",
+    "Element at index 4 is strawberry",
+    "20k",
+    "cookie is available at index 2",
+    "largest number is 91",
+    "smallest number is 12",
+    "95, 100"
+  ],
+  [
+    "Hello, Hamza Hussain!",
+    "Length of string: 27",
+    "Index of 'n': 7",
+    "Last index of 'l': 9",
+    "Character at index 3: i",
+    "Hello, Hamza Hussain!",
+    "After replacement: Islamabad",
+    "They play cricket & football together.",
+    "Type: number",
+    "PEANUTS",
+    "Javascript Development",
+    "Result: 3536",
+    "Valid username: Hamza",
+    "cookie is available at index 2",
+    "Valid password.",
+    "U",
+    "Last character: n",
+    "2 occurrences of the word 'the'"
+  ],
+  [
+    "Ceil value: 4",
+    "Floor value: -3",
+    "absolute value of -4 is 4",
+    "Random dice value: 3",
+    "Tails",
+    "1 and 100: 41",
+    "50.2 kilograms",
+    "Congratulations!"
+  ],
+  [
+    "2026",
+    "Current month: October",
+    "Today is Sun",
+    "It’s Fun day",
+    "First fifteen days",
+    "Elapsed minutes since January 1, 1970:",
+    "Its PM",
+    "2020",
+    "since 1st Ramadan, 2015",
+    "29285416 seconds",
+    "One hour ahead:",
+    "1926",
+    "birth year is 2000",
+    "Gross Amount Payable (after Due Date): 6910.00"
+  ],
+  [
+    "2026",
+    "Hello, Hamza Hussain!",
+    "Sum: 30",
+    "Result: 3",
+    "Square: 25",
+    "5! = 120",
+    "10",
+    "Hypotenuse: 5",
+    "Arguments as variables: 28",
+    "is a palindrome: true",
+    "The Quick Brown Fox",
+    "Development",
+    "JSResourceS.com: 2",
+    "The area is 78.54"
+  ],
+  [
+    "2 raised to 5 = 32",
+    "2024 is a leap year: true",
+    "Triangle area: 6.00",
+    "Percentage: 80.00%",
+    "Index: 1",
+    "Without vowels: Hll Wrld",
+    "Count: 4",
+    "Centimetres: 500000.00",
+    "Overtime pay: Rs. 60.00",
+    "Total notes: 7"
+  ],
+  [
+    "Click the link above",
+    "Click a mobile image",
+    "entire student row",
+    "Move your mouse",
+    "Each click changes"
+  ],
+  [
+    "Submit the form",
+    "reveal the complete",
+    "Add a student"
+  ],
+  [
+    "Close its modal",
+    "minimum readable size of 10px"
+  ],
+  [
+    "first-name, last-name and email",
+    "Email parent: form-content, node type: 1"
+  ]
+]
